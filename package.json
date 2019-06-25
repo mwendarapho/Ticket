@@ -1,0 +1,22 @@
+{
+  "name" : "Ticket",
+  "title" : "Ticket",
+  "author : [
+              "Raphael",
+              "Moureen",
+              "Fred"
+             ]
+ "version": "1.0.0",
+  "description": "Ticket is a web app for issuing bus tickets",
+  
+  "license": "MIT",
+    
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/mwendarapho/Ticket.git"
+    },
+    "dependencies": {
+        "bootstrap": "4.3.1",
+        "jquery": "3.4.1"
+    },
+}
