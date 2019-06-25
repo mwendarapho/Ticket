@@ -18,6 +18,10 @@ The projet has different sections:
 - Google maps
 - Equity Ezzy pay
 - Airtel money
+- SMS
 -Oauth
   - Facebook
   - Google account
+##  Frameworks
+- Laravel
+- Jquery
