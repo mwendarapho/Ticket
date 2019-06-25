@@ -4,3 +4,6 @@ The projet has different sections:
 
   -Routes
   -Buses
+  -Tickets
+  -Reports
+  -User Accounts
