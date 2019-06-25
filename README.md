@@ -19,7 +19,7 @@ The projet has different sections:
 - Equity Ezzy pay
 - Airtel money
 - SMS
--Oauth
+- Oauth
   - Facebook
   - Google account
 ##  Frameworks
