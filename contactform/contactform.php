@@ -9,14 +9,14 @@ $visitor_email = $_POST['email'];
 $subject = $_POST['subject'];
 $message = $_POST['message'];
 
-$email_from = "makuyumutuma@gmail.com";
+$email_from = 'makuyumutuma@gmail.com';
 $email_subject = "new form submission";
 $email_body = "You have received a new message from $name.\n".
     "email address: $visitor_email \n".
     "subject: $subject \n".
-    "Here is the message:\n $message".;
+    "Here is the message:\n $message";
 
-$to = "makuyumutuma@gmail.com";
+$to = 'makuyumutuma@gmail.com';
 $headers = "From: $email_from \r\n";
 $headers = "Reply_to: $visitor_email \r\n";
 
