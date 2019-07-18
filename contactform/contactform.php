@@ -23,5 +23,5 @@ $headers = "Reply_to: $visitor_email \r\n";
 
 //send the email
 mail($to, $email_subject,$email_body,$headers);
-header('Location: thank-you.html');
+//header('Location: thank-you.html');
 ?>
